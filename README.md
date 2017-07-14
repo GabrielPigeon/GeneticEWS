@@ -1,4 +1,4 @@
-# Genetic Early Warniong Signals
+# Genetic Early Warning Signals
 
 Good wildlife management is based on timely action. However, changing regulations and putting in place conservation effort takes time. Detecting population with a high risk of colapse in time to apply these effert before the population is doomed would allow  for much more efficent management. However, good predictive modeling of ecological dynmics is neraly imposible given the complexity of the underlying processes and the high level of sotchasticity. This is futher complicated by the fact that the transitions from one state to another (viable population to extinct) in these systems are often non-linear. As conditions deteriorate, a thershold is passed leading to the rapid collapse of thepopulation.
 
