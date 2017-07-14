@@ -4,7 +4,7 @@
 .Ruserdata
 *.Rproj
 data
-cache
+*.Rdata
 graphs
 srcOld
 tests
