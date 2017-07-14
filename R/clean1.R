@@ -1,7 +1,8 @@
 # © Gabriel Pigeon
-# Version 1          date: 2012-00-00
+# Version 1          date: 2017-07-14
 # Script for Data management and cleaning
-
+# goes from Raw data to cleaned data
+# saved cleaned data in "cache"
 
 source("R/myfunc1.R")
 library(gabtool)

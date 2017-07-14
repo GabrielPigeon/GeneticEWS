@@ -1,6 +1,6 @@
 # © Gabriel Pigeon
-# Version 1          date: 2012-00-00
-# Script for specialized functions
+# Version 1          date: 2017-07-14
+# Script for functions used in the analysis
 
 # source()
 library(parallel)

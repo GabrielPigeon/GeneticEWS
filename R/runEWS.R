@@ -1,10 +1,14 @@
-# load data and packages
-load("cache/cleanData_20170127.Rdata")
+# © Gabriel Pigeon
+# Version 1          date: 2017-07-14
+# Main script to run the analysis
+
+# load data and packages  ----------------------------------------------------
+load("cache/cleanData_20170127.Rdata") 
 library(tidyverse)
 library(reshape2)
 source("R/myfunc1.R")
 
-# get single indices ---------------------------------------------------------------------
+# get single indices --------------------------------------------------------
 # remove unwanted things
 dat<-df.pheno %>% select(-meanAFR,-sdAFR) %>% rename(Count=fem)
 

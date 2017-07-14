@@ -1,3 +1,7 @@
+# © Gabriel Pigeon
+# Version 1          date: 2017-07-14
+# Script to get genetic diversity data from genotypes
+
 require(diveRsity)
 
 
