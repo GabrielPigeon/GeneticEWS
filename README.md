@@ -17,7 +17,7 @@ While EWS seem to bee extremely promissing tools, their usefullness in nature ha
 
 ## Getting Started
 
-This R code allows one to use the demographic, phenotypic and genetic information on the population of Ram Mountain, Alberta, to calculate and detect EWS. It was mostly stolen from the supplementary material of (Clemets & Ozgul 2016). The cleaned data file sould be place in the "cache" folder and R working directory should be set to the root folder. Raw data go in the "data" folder. Raw and cleaned data are available on demand only.
+This R code allows one to use the demographic, phenotypic and genetic information on the population of Ram Mountain, Alberta, to calculate and detect EWS. It was mostly stolen from the supplementary material of (Clemets & Ozgul 2016). The cleaned data file sould be place in the "cache" folder and R working directory should be set to the root folder. Raw data go in the "data" folder. Raw and cleaned data are available on demand only. The main script is "runEWS.R" which is based on the other underlying scripts which load functions and clean the raw data. 
 
 
 ## References and further reading
