@@ -48,7 +48,7 @@ is to be found, it should be possible to do so in this population.
 ## Getting Started
 
 This R code allows one to use the demographic, phenotypic and genetic information
-on the population of Ram Mountain, Alberta, to calculate and detect EWS. It was mostly stolen from the supplementary material of (Clemets & Ozgul 2016). The cleaned data file sould be place in the "cache" folder and R working directory should be set to the root folder.  
+on the population of Ram Mountain, Alberta, to calculate and detect EWS. It was mostly stolen from the supplementary material of (Clemets & Ozgul 2016). The cleaned data file sould be place in the "cache" folder and R working directory should be set to the root folder. Raw data go in the "data" folder. Raw and cleaned data are available on demand only.
 
 
 ## References and further reading
@@ -64,3 +64,6 @@ on the population of Ram Mountain, Alberta, to calculate and detect EWS. It was 
     + At the moment, it's all based on multiplying the sd of critical limits by a constant determined by a normal probability distribution  
 * More phenotypic signals
 * determine theoretical justifications for alternative stable states
+
+## Author
+* [Gabriel Pigeon](https://github.com/GabrielPigeon)
